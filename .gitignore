@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.so
+
+env/
+venv/
+*.egg-info/
+
+*.log
+
+*.ini
+*.cfg
+*.cache
+
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
+
+outputs/
+data/raw/
+data/processed/
+
+# Others
+*.swp
