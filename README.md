@@ -71,7 +71,7 @@ To set up a local development environment, follow these steps:
 1.  **Clone the Repository**
 
 ```bash
-git clone https://github.com/VPLEV23/
+git clone [https://github.com/VPLEV23/](https://github.com/VPLEV23/fraud_detection_poc/)
 
 cd fraud_detection_poc
 ```
